@@ -60,17 +60,18 @@ Here are some of the technologies that I've worked with:
 ---
 
 ## Connect with Me
+
 <h2>Connect with Me:</h2>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://www.linkedin.com/in/nouran-haitham/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 200px; height: 50px; margin-right: 10px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 150px; height: 50px; margin-right: 10px;" />
   </a>
   <a href="mailto:nouranhaitham233@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="width: 200px; height: 50px; margin-right: 10px;" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="width: 150px; height: 50px; margin-right: 10px;" />
   </a>
   <a href="https://www.codeforces.com/profile/NouranHaitham" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" style="width: 200px; height: 50px;" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" style="width: 150px; height: 50px;" />
   </a>
 </div>
 
