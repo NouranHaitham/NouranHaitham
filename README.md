@@ -61,15 +61,17 @@ Here are some of the technologies that I've worked with:
 
 ## Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nouran-haitham/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
+<h2>Connect with Me:</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nouran-haitham/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:nouranhaitham233@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.codeforces.com/profile/NouranHaitham">
-    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+  <a href="https://www.codeforces.com/profile/NouranHaitham" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <!-- Add more social icons as needed -->
-</p>
+</div>
+
