@@ -63,15 +63,18 @@ Here are some of the technologies that I've worked with:
 
 <h2>Connect with Me:</h2>
 
-<div align="center">
+<div style="text-align: left;">
   <a href="https://www.linkedin.com/in/nouran-haitham/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.5" alt="LinkedIn" style="width: 250px; height: 60px;" />
   </a>
+  <br/><br/>
   <a href="mailto:nouranhaitham233@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="width: 250px; height: 60px;" />
   </a>
+  <br/><br/>
   <a href="https://www.codeforces.com/profile/NouranHaitham" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" style="width: 250px; height: 60px;" />
   </a>
 </div>
+
 
