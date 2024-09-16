@@ -2,10 +2,7 @@
 
 ---
 
-## Technologies Used
-
-Here are some of the technologies that I've worked with:
-
+### Languages/Tools that I've worked with:
 
 [<img align="left" alt="C++" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />][cpp_website]
 [<img align="left" alt="Java" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />][java_website]
