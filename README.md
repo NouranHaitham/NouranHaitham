@@ -59,48 +59,28 @@ Here are some of the technologies that I've worked with:
 
 ---
 
-## Connect with Me
-
-<h2>Connect with Me:</h2>
+<h2>Connect with Me</h2>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://www.linkedin.com/in/nouran-haitham/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 150px; height: 50px; margin-right: 10px;" />
-  </a>
-  <a href="mailto:nouranhaitham233@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="width: 150px; height: 50px; margin-right: 10px;" />
-  </a>
-  <a href="https://www.codeforces.com/profile/NouranHaitham" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" style="width: 150px; height: 50px;" />
-  </a>
-</div>
-
----
-
-<h2>Connect with Me:</h2>
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://www.linkedin.com/in/nouran-haitham/" target="_blank" style="text-decoration: none;">
-    <div style="background-color: #0077B5; color: white; padding: 10px 20px; border-radius: 5px; display: flex; align-items: center; font-family: Arial, sans-serif; font-weight: bold;">
-      <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="height: 20px; margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/nouran-haitham/" target="_blank" style="text-decoration: none; margin-right: 10px;">
+    <div style="background-color: #0077B5; color: white; padding: 15px 25px; border-radius: 5px; text-align: center; width: 150px; height: 50px; display: flex; align-items: center; justify-content: center; font-family: Arial, sans-serif; font-weight: bold; text-shadow: -1px -1px 2px rgba(0,0,0,0.7), 1px 1px 2px rgba(255,255,255,0.3); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
       LINKEDIN
     </div>
   </a>
-
-  <a href="https://www.codeforces.com/profile/NouranHaitham" target="_blank" style="text-decoration: none; margin-left: 15px;">
-    <div style="background-color: #D73A49; color: white; padding: 10px 20px; border-radius: 5px; display: flex; align-items: center; font-family: Arial, sans-serif; font-weight: bold;">
-      <img src="https://img.icons8.com/color/48/000000/codeforces.png" alt="Codeforces" style="height: 20px; margin-right: 10px;">
+  
+  <a href="mailto:nouranhaitham233@gmail.com" style="text-decoration: none; margin-right: 10px;">
+    <div style="background-color: #D14836; color: white; padding: 15px 25px; border-radius: 5px; text-align: center; width: 150px; height: 50px; display: flex; align-items: center; justify-content: center; font-family: Arial, sans-serif; font-weight: bold; text-shadow: -1px -1px 2px rgba(0,0,0,0.7), 1px 1px 2px rgba(255,255,255,0.3); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
+      GMAIL
+    </div>
+  </a>
+  
+  <a href="https://www.codeforces.com/profile/NouranHaitham" target="_blank" style="text-decoration: none;">
+    <div style="background-color: #D73A49; color: white; padding: 15px 25px; border-radius: 5px; text-align: center; width: 150px; height: 50px; display: flex; align-items: center; justify-content: center; font-family: Arial, sans-serif; font-weight: bold; text-shadow: -1px -1px 2px rgba(0,0,0,0.7), 1px 1px 2px rgba(255,255,255,0.3); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);">
       CODEFORCES
     </div>
   </a>
-
-  <a href="https://stackoverflow.com/" target="_blank" style="text-decoration: none; margin-left: 15px;">
-    <div style="background-color: #F48024; color: white; padding: 10px 20px; border-radius: 5px; display: flex; align-items: center; font-family: Arial, sans-serif; font-weight: bold;">
-      <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" style="height: 20px; margin-right: 10px;">
-      STACKOVERFLOW
-    </div>
-  </a>
 </div>
+
 
 
 
