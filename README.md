@@ -45,8 +45,8 @@ Here are some of the technologies that I've worked with:
 ## GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=NouranHaitham&show_icons=true&hide=issues" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=NouranHaitham" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=NouranHaitham&show_icons=true&hide=issues&theme=radical" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=NouranHaitham&theme=radical" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ Here are some of the technologies that I've worked with:
 ## Most Used Languages
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NouranHaitham&layout=compact" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NouranHaitham&layout=compact&theme=radical" />
 </p>
 
 ---
