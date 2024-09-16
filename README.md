@@ -61,16 +61,18 @@ Here are some of the technologies that I've worked with:
 
 ## Connect with Me
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://www.linkedin.com/in/nouran-haitham/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 150px; height: 50px; margin-right: 10px;" />
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://www.linkedin.com/in/nouran-haitham/" target="_blank" style="text-decoration: none; margin-right: 15px;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
-  <a href="mailto:nouranhaitham233@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="width: 150px; height: 50px; margin-right: 10px;" />
+  
+  <a href="https://codeforces.com/profile/NouranHaitham" target="_blank" style="text-decoration: none; margin-right: 15px;">
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=e3143a&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="codeforces logo" />
   </a>
-  <a href="https://www.codeforces.com/profile/NouranHaitham" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" style="width: 150px; height: 50px;" />
+  
+  <a href="mailto:nouranhaitham233@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
   </a>
-</div> 
+</div>
 
 
