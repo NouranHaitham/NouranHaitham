@@ -6,7 +6,20 @@
 
 Here are some of the technologies that I've worked with:
 
-<p align="center"> <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus" alt="C++" /> <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" alt="Java" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" alt="Python" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5" alt="HTML5" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript" alt="JavaScript" /> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git" alt="Git" /> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" /> <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go" alt="Go" /> </p>
+
+[<img align="left" alt="C++" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />][cpp_website]
+[<img align="left" alt="Java" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />][java_website]
+[<img align="left" alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />][python_website]
+[<img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />][html_website]
+[<img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />][css_website]
+[<img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][js_website]
+[<img align="left" alt="SQLite" width="32px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" />][c#_website]
+[<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />][git_website]
+[<img align="left" alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />][github_website]
+[<img align="left" alt="Linux" width="32px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original.svg" />][go_website]
+
+<br />
+<br />
 
 ---
 
