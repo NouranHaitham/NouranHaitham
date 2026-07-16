@@ -22,7 +22,6 @@ My main interests include:
 - 🌐 Full-Stack Development
 - 📱 Android Development
 - 💻 Competitive Programming
-- 🎮 Game Development
 - 🔬 Software Engineering
 
 I'm always looking for opportunities to learn, collaborate, and build impactful technology.
