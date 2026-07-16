@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Science graduate** from the **Faculty of Computer and Information Sciences, Ain Shams University (Class of 2026)** with a **CGPA of 3.951/4.0**.
+I'm a **Computer Science graduate** from the **Faculty of Computer and Information Sciences, Ain Shams University (Class of 2026)**.
 
 I enjoy building software that solves real-world problems—from **AI-powered applications** and **backend systems** to **mobile apps**, **games**, and **computer vision projects**.
 
