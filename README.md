@@ -182,28 +182,6 @@ Python • TensorFlow • PyTorch • Scikit-Learn • OpenCV • MediaPipe • 
 
 ---
 
-## 🏆 Achievements
-
-🥇 1st Place — Algorithms Course Project
-
-🥈 2nd Place — Machine Learning Course Project
-
-🥉 Bronze Medal — RoboTech IoT Competition
-
-🏅 Top Graduation Project — DEPI Next Academy Job Fair
-
-🎓 CGPA **3.951 / 4.0**
-
-🏅 Ranked **3rd Academically** among freshman students
-
-🏆 Ranked **5th Nationwide** in the Mathematics section of Egyptian High School
-
-💻 Solved **600+ Competitive Programming Problems**
-
-🏅 ECPC Qualifications Participant (2024 & 2025)
-
----
-
 ## 📈 GitHub Statistics
 
 <p align="center">
